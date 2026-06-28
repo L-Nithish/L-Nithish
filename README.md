@@ -76,7 +76,7 @@ Here are some of my featured projects, all fully deployed and running live:
       <p>My personal portfolio website featuring a premium dark-mode aesthetic, interactive 3D parallax elements, custom SVG system architectures, and case studies of my projects.</p>
       <p>
         <a href="https://github.com/L-Nithish/Nithish-Portfolio"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
-        <a href="YOUR_NEW_PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+        <a href="https://nithish-portfolio-theta.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
         <a href="./case-studies/portfolio.md"><img src="https://img.shields.io/badge/Case_Study-Read-8A2BE2?style=flat-square" alt="Case Study"></a>
       </p>
       <p>
@@ -159,6 +159,6 @@ Here are some of my featured projects, all fully deployed and running live:
 
 ### 🤝 Connect with Me
 
-* 🌐 **Portfolio Website:** [YOUR_NEW_PORTFOLIO_URL_HERE](YOUR_NEW_PORTFOLIO_URL_HERE)
+* 🌐 **Portfolio Website:** [nithish-portfolio-theta.vercel.app](https://nithish-portfolio-theta.vercel.app)
 * 💼 **LinkedIn:** [linkedin.com/in/l-nithish](https://linkedin.com) *(Update with your link!)*
 * 📧 **Email:** [nithish.dev@outlook.com](mailto:nithish.dev@outlook.com)

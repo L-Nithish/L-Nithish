@@ -3,7 +3,7 @@
 ## 1. Executive Summary
 This project is a high-performance, visually stunning 3D developer portfolio website. It serves as an interactive hub showcasing engineering case studies, featuring smooth parallax scroll physics, interactive SVG architecture blueprints, and a responsive macOS-style browser simulator.
 
-* **Live Demo:** [YOUR_NEW_PORTFOLIO_URL_HERE](YOUR_NEW_PORTFOLIO_URL_HERE)
+* **Live Demo:** [https://nithish-portfolio-theta.vercel.app](https://nithish-portfolio-theta.vercel.app)
 * **GitHub Repository:** [https://github.com/L-Nithish/Nithish-Portfolio](https://github.com/L-Nithish/Nithish-Portfolio)
 
 ---
