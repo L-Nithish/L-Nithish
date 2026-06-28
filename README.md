@@ -66,6 +66,34 @@ Here are some of my featured projects, all fully deployed and running live:
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✨ Developer Portfolio</h4>
+      <p>My personal portfolio website featuring a premium dark-mode aesthetic, interactive 3D parallax elements, custom SVG system architectures, and case studies of my projects.</p>
+      <p>
+        <a href="https://github.com/L-Nithish/Nithish-Portfolio"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
+        <a href="https://nithish-portfolio-amber.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React">
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer" alt="Framer Motion">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 Movie Explorer</h4>
+      <p>A lightweight, dependency-free movie search application utilizing an asynchronous engine to query the OMDb API, featuring instant search results and responsive design.</p>
+      <p>
+        <a href="https://github.com/L-Nithish/movie-search-app"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
+        <a href="https://l-nithish.github.io/movie-search-app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo"></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
