@@ -17,6 +17,7 @@ Here are some of my featured projects, all fully deployed and running live:
       <p>
         <a href="https://github.com/L-Nithish/QuantumOS"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
         <a href="https://quantum-os-bzoj.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+        <a href="./case-studies/quantum-os.md"><img src="https://img.shields.io/badge/Case_Study-Read-8A2BE2?style=flat-square" alt="Case Study"></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React">
@@ -30,6 +31,7 @@ Here are some of my featured projects, all fully deployed and running live:
       <p>
         <a href="https://github.com/L-Nithish/Succession-AI"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
         <a href="https://succession-ai-s4hp.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+        <a href="./case-studies/succession-ai.md"><img src="https://img.shields.io/badge/Case_Study-Read-8A2BE2?style=flat-square" alt="Case Study"></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js">
@@ -45,6 +47,7 @@ Here are some of my featured projects, all fully deployed and running live:
       <p>
         <a href="https://github.com/L-Nithish/DexterStore"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
         <a href="https://dexterstore.netlify.app"><img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=netlify&logoColor=white" alt="Live Demo"></a>
+        <a href="./case-studies/dexter-store.md"><img src="https://img.shields.io/badge/Case_Study-Read-8A2BE2?style=flat-square" alt="Case Study"></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React">
@@ -58,6 +61,7 @@ Here are some of my featured projects, all fully deployed and running live:
       <p>
         <a href="https://github.com/l-nithish/cricket-evolution"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
         <a href="https://cricket-evolution.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+        <a href="./case-studies/cricket-evolution.md"><img src="https://img.shields.io/badge/Case_Study-Read-8A2BE2?style=flat-square" alt="Case Study"></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js">
@@ -73,6 +77,7 @@ Here are some of my featured projects, all fully deployed and running live:
       <p>
         <a href="https://github.com/L-Nithish/Nithish-Portfolio"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
         <a href="https://nithish-portfolio-amber.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+        <a href="./case-studies/portfolio.md"><img src="https://img.shields.io/badge/Case_Study-Read-8A2BE2?style=flat-square" alt="Case Study"></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js">
@@ -86,6 +91,7 @@ Here are some of my featured projects, all fully deployed and running live:
       <p>
         <a href="https://github.com/L-Nithish/movie-search-app"><img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" alt="GitHub"></a>
         <a href="https://l-nithish.github.io/movie-search-app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo"></a>
+        <a href="./case-studies/movie-explorer.md"><img src="https://img.shields.io/badge/Case_Study-Read-8A2BE2?style=flat-square" alt="Case Study"></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
